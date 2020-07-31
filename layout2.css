@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+}
+
+header {
+  background-color: pink;
+  height: 110px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+}
+
+nav {
+  height: 70px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+}
+
+section {
+  background-color: yellowgreen;
+  height: 500px;
+  width: 100%;
+  font-size: 20px;
+}
+
+footer {
+  height: 110px;
+  background-color: paleturquoise;
+}
